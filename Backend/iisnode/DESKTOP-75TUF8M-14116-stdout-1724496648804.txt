@@ -1,0 +1,12 @@
+Server listening on \\.\pipe\0721fd24-8282-455d-92fa-86de176ebf63
+Database connection established
+Data sent to printer: 192.168.0.20:9100 <Buffer 1b 61 01 52 65 73 74 61 75 72 61 6e 74 20 4e 61 6d 65 0a 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d ... 153 more bytes>
+Print done: undefined
+Data sent to printer: 192.168.0.20:9100 <Buffer 1b 61 01 52 65 73 74 61 75 72 61 6e 74 20 4e 61 6d 65 0a 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d ... 153 more bytes>
+Print done: undefined
+Data sent to printer: 192.168.0.20:9100 <Buffer 1b 61 01 52 65 73 74 61 75 72 61 6e 74 20 4e 61 6d 65 0a 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d ... 153 more bytes>
+Print done: undefined
+Data sent to printer: 192.168.0.20:9100 <Buffer 1b 61 01 52 65 73 74 61 75 72 61 6e 74 20 4e 61 6d 65 0a 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d ... 153 more bytes>
+Print done: undefined
+Data sent to printer: 192.168.0.20:9100 <Buffer 1b 61 01 52 65 73 74 61 75 72 61 6e 74 20 4e 61 6d 65 0a 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d ... 153 more bytes>
+Print done: undefined

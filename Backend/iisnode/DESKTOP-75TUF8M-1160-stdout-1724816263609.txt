@@ -1,0 +1,5 @@
+ Printer Server listening on \\.\pipe\9ffabaa2-56f2-4ad7-af9e-2deea6381d7b
+Data sent to printer: 192.168.0.20:9100 <Buffer 1b 61 01 52 65 73 74 61 75 72 61 6e 74 20 4e 61 6d 65 0a 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d ... 156 more bytes>
+Print done: undefined
+Data sent to printer: 192.168.0.20:9100 <Buffer 1b 61 01 52 65 73 74 61 75 72 61 6e 74 20 4e 61 6d 65 0a 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d ... 156 more bytes>
+Print done: undefined
